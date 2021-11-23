@@ -1,0 +1,105 @@
+// Place all the styles related to the ET710 controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+        background-color:rgb(60,155,155);
+    
+
+      
+      }
+      
+      
+      #wrapper{
+        font-family:Verdana, sans-serif;
+        width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        background-color:white;
+        border:2px grey outset;
+        
+        
+      }
+      #masth{
+        border:2px grey inset;
+        background-color:rgb(110,25,15);
+        padding:35px;
+      }
+      #masthh{
+        border:5px white outset;
+        float:left;
+        margin-right:15px;
+        margin-left:65px;
+        background-color:silver;
+        
+      }
+      #masthhh{
+        color:rgb(155,255,255);
+        
+      }
+      #heading{
+        padding:10px;
+      }
+      #mainc{
+        /*--line-height:20px;-->*/
+        padding:10px;
+      }
+      #hm{
+        border:2px grey inset;
+      }
+      #footr{
+        
+        
+      }
+      #footr1{
+        width:380px;
+        
+        float:left;
+        padding-left:20px;
+        background-color:rgb(0,15,0);
+        color:rgb(222,222,222);
+        
+        clear:both;
+      }
+      #footr2{
+        width:380px;
+        float:right;
+        text-align:right;
+        padding-right:20px;
+        background-color:rgb(0,15,0);
+        color:rgb(222,222,222);
+        
+        
+      }
+      
+      
+      li{
+        display:inline;
+        
+      }
+      a{
+        text-decoration:none;
+        font-weight:750px;
+        font-size:15px;
+        margin-right:25px;
+      
+      }
+      #navi{
+        text-align:center;
+        background-color:grey;
+        border:1px grey inset;
+        margin-top:-2px;
+    
+      }
+      a:link{
+        color:green;
+      }
+      a:visited{
+        color:brown;
+      }
+      a:hover{
+        color:orange;
+        padding:5px;
+      }
+      a:active{
+        color:black;
+      }
